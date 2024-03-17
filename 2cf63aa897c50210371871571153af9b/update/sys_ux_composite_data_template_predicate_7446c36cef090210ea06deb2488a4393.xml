@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="kb_knowledge">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>short_description,rating,topic,sys_view_count,article_type,category</field_list>
+        <name>Custom Portal Landing - Popular Articles Predicate</name>
+        <order/>
+        <predicate_bundle/>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-17 01:13:41</sys_created_on>
+        <sys_id>7446c36cef090210ea06deb2488a4393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal Landing - Popular Articles Predicate</sys_name>
+        <sys_package display_value="DoD-8140 Cyberspace Training Repository" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_7446c36cef090210ea06deb2488a4393</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-17 01:13:41</sys_updated_on>
+        <table>kb_knowledge</table>
+        <ux_template display_value="Custom Portal Landing - Popular Articles">f846c36c7a09021045c843ef1685b893</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

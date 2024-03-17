@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="0146c36cf0090210a5bb96fb83c49ab4" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1066731_it_cre_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-17 01:13:45</sys_created_on>
+            <sys_id>8546c36c16090210f3ba0394cae42bb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c146c36c90090210fdba2f48b0a8dfb4">0146c36cf0090210a5bb96fb83c49ab4</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-17 01:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-17 01:13:45</sys_created_on>
+            <sys_id>4946c36cad090210212e23ea890488b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c146c36c90090210fdba2f48b0a8dfb4">0146c36cf0090210a5bb96fb83c49ab4</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-17 01:13:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-17 01:13:45</sys_created_on>
+            <sys_id>cd46c36c8c0902103b805400591cfcb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c146c36c90090210fdba2f48b0a8dfb4">0146c36cf0090210a5bb96fb83c49ab4</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-17 01:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-17 01:13:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0146c36cf0090210a5bb96fb83c49ab4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Credentials" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Credentials">2cf63aa897c50210371871571153af9b</sys_scope>
+            <sys_update_name>sys_ui_section_0146c36cf0090210a5bb96fb83c49ab4</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-03-17 01:13:45</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_1066731_it_cre_0)" name="custom_portal_settings_x_1066731_it_cre_0">c146c36c90090210fdba2f48b0a8dfb4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</application>
+        <file_path/>
+        <instance_id>706e1e0ddbf248109df22f17d4961993</instance_id>
+        <instance_name>dev99320</instance_name>
+        <name>sys_ui_section_0146c36cf0090210a5bb96fb83c49ab4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="0146c36cf0090210a5bb96fb83c49ab4" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1066731_it_cre_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>time_zone</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2024-03-17 01:13:45</sys_created_on><sys_id>8546c36c16090210f3ba0394cae42bb4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c146c36c90090210fdba2f48b0a8dfb4">0146c36cf0090210a5bb96fb83c49ab4</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-17 01:13:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2024-03-17 01:13:45</sys_created_on><sys_id>4946c36cad090210212e23ea890488b4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c146c36c90090210fdba2f48b0a8dfb4">0146c36cf0090210a5bb96fb83c49ab4</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-17 01:13:45</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_language</element><position>2</position><sys_created_by>system</sys_created_by><sys_created_on>2024-03-17 01:13:45</sys_created_on><sys_id>cd46c36c8c0902103b805400591cfcb2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="c146c36c90090210fdba2f48b0a8dfb4">0146c36cf0090210a5bb96fb83c49ab4</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-17 01:13:45</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-17 01:13:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0146c36cf0090210a5bb96fb83c49ab4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user</sys_name><sys_overrides/><sys_package display_value="IT Credentials" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package><sys_policy/><sys_scope display_value="IT Credentials">2cf63aa897c50210371871571153af9b</sys_scope><sys_update_name>sys_ui_section_0146c36cf0090210a5bb96fb83c49ab4</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-17 01:13:45</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal settings (x_1066731_it_cre_0)" name="custom_portal_settings_x_1066731_it_cre_0">c146c36c90090210fdba2f48b0a8dfb4</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1964544951</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-17 14:25:34</sys_created_on>
+        <sys_id>458b357497854210371871571153af18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e4ccdba3c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-17 14:25:34</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>058b3574218542103e87633e724aed18</update_guid>
+        <update_guid_history>058b3574218542103e87633e724aed18:1964544951</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-17 14:25:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3c0b832e5de54dc99a10c59db4bdf269</sys_id>
+        <sys_metadata>0146c36cf0090210a5bb96fb83c49ab4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="DoD-8140 Cyberspace Training Repository" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+        <sys_parent display_value="Sys User">2c1af8109000021087de3cfccdb0d671</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</sys_scope>
+        <sys_scope_delete display_value="">085cb00d84ac44df85ed391c20425a59</sys_scope_delete>
+        <sys_update_name>sys_ui_section_0146c36cf0090210a5bb96fb83c49ab4</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_0146c36cf0090210a5bb96fb83c49ab4">458b357497854210371871571153af18</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-17 14:25:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

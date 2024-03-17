@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="kb_knowledge">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>short_description,author.avatar,author.name,description,sys_view_count,rating</field_list>
+        <name>Popular articles predicate</name>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">aceb7d7439854210eed40cb8a517f0ce</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-17 14:27:13</sys_created_on>
+        <sys_id>a0eb7d74f8854210498c63cb15f580cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular articles predicate</sys_name>
+        <sys_package display_value="DoD-8140 Cyberspace Training Repository" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_a0eb7d74f8854210498c63cb15f580cb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-17 14:27:13</sys_updated_on>
+        <table>kb_knowledge</table>
+        <ux_template display_value="Popular articles template">6ceb7d7413854210ca3160f7a060e6cc</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

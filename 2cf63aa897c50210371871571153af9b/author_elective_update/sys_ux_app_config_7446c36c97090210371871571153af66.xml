@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>This is a custom portal experience.</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>landing</landing_path>
+        <name>Custom Portal App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-17 01:13:43</sys_created_on>
+        <sys_id>7446c36c97090210371871571153af66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal App Config</sys_name>
+        <sys_package display_value="IT Credentials" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Credentials">2cf63aa897c50210371871571153af9b</sys_scope>
+        <sys_update_name>sys_ux_app_config_7446c36c97090210371871571153af66</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-17 01:13:43</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</application>
+        <file_path/>
+        <instance_id>706e1e0ddbf248109df22f17d4961993</instance_id>
+        <instance_name>dev99320</instance_name>
+        <name>sys_ux_app_config_7446c36c97090210371871571153af66</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description>This is a custom portal experience.</description><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>landing</landing_path><name>Custom Portal App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-17 01:13:43</sys_created_on><sys_id>7446c36c97090210371871571153af66</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Custom Portal App Config</sys_name><sys_package display_value="IT Credentials" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package><sys_policy/><sys_scope display_value="IT Credentials">2cf63aa897c50210371871571153af9b</sys_scope><sys_update_name>sys_ux_app_config_7446c36c97090210371871571153af66</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-17 01:13:43</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>-1984446933</payload_hash>
+        <record_name>Custom Portal App Config</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-17 14:25:44</sys_created_on>
+        <sys_id>df8bb57497854210371871571153af84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e4ccdde7b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-17 14:25:44</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>9f8bb574478542105caddf955eb9d584</update_guid>
+        <update_guid_history>9f8bb574478542105caddf955eb9d584:-1984446933</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-17 14:25:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>850569ec614249788ce67a7dc77ad941</sys_id>
+        <sys_metadata>7446c36c97090210371871571153af66</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal App Config</sys_name>
+        <sys_package display_value="DoD-8140 Cyberspace Training Repository" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</sys_scope>
+        <sys_scope_delete display_value="">085cb00d84ac44df85ed391c20425a59</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_7446c36c97090210371871571153af66</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_7446c36c97090210371871571153af66">df8bb57497854210371871571153af84</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-17 14:25:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

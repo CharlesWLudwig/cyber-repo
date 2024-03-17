@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Custom Portal App Config">14eb7d7497854210371871571153af9f</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>Catalog Item Page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>catalog</route_type>
+        <screen_type display_value="Catalog Item Page">6ceb7d74a7854210069806592671c7e1</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-17 14:27:12</sys_created_on>
+        <sys_id>e8eb7d749585421045379a2b6bb2cde0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog Item Page</sys_name>
+        <sys_package display_value="DoD-8140 Cyberspace Training Repository" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</sys_scope>
+        <sys_update_name>sys_ux_app_route_e8eb7d749585421045379a2b6bb2cde0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-17 14:27:12</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=e8eb7d749585421045379a2b6bb2cde0"/>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="User Metadata" section_id="68eb7d74ec8542101912c8dd222fefec" sys_domain="global" table="sys_user" version="3" view="2_custom_portal_settings_x_1066731_it_cre_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:35:51</sys_created_on>
+            <sys_id>63ddf93897854210371871571153afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User Metadata" display_value="User Metadata" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">68eb7d74ec8542101912c8dd222fefec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:35:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:35:51</sys_created_on>
+            <sys_id>e7ddf93897854210371871571153afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User Metadata" display_value="User Metadata" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">68eb7d74ec8542101912c8dd222fefec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:35:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:35:51</sys_created_on>
+            <sys_id>6fddf93897854210371871571153afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User Metadata" display_value="User Metadata" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">68eb7d74ec8542101912c8dd222fefec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:35:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>User Metadata</caption>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-03-17 14:27:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68eb7d74ec8542101912c8dd222fefec</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DoD-8140 Cyberspace Training Repository" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</sys_scope>
+            <sys_update_name>sys_ui_section_68eb7d74ec8542101912c8dd222fefec</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:35:51</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="2_custom_portal_settings_x_1066731_it_cre_0" name="2_custom_portal_settings_x_1066731_it_cre_0">2ceb7d741085421041e040588211bcec</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

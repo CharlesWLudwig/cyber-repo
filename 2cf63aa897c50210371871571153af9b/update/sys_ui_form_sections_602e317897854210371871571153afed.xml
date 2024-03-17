@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="602e317897854210371871571153afed" sys_domain="global" table="sysapproval_approver" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:37:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac2e717897854210371871571153afb6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sysapproval_approver" name="sysapproval_approver" sys_domain="global" view="e8eb7d7474854210c1e29110c2ced9eb">602e317897854210371871571153afed</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="e8eb7d7474854210c1e29110c2ced9eb">e0eb7d748b8542105a0b5b1f97cf58eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:37:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:38:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>175eb57897854210371871571153af9d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sysapproval_approver" name="sysapproval_approver" sys_domain="global" view="e8eb7d7474854210c1e29110c2ced9eb">602e317897854210371871571153afed</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="sysapproval_approver" sys_domain="global" view="e8eb7d7474854210c1e29110c2ced9eb">175e757897854210371871571153aff9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:38:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:37:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>682e717897854210371871571153afb7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sysapproval_approver" name="sysapproval_approver" sys_domain="global" view="e8eb7d7474854210c1e29110c2ced9eb">602e317897854210371871571153afed</sys_ui_form>
+            <sys_ui_section caption="Office" display_value="Office" name="sysapproval_approver" sys_domain="global" view="e8eb7d7474854210c1e29110c2ced9eb">a42e317897854210371871571153afec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:38:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:37:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>602e317897854210371871571153afed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DoD-8140 Cyberspace Training Repository" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_602e317897854210371871571153afed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:37:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="2_custom_portal_approval_x_1066731_it_cre_0" name="2_custom_portal_approval_x_1066731_it_cre_0">e8eb7d7474854210c1e29110c2ced9eb</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

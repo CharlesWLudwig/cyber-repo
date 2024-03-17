@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">7046c36c97090210371871571153af66</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">8546c36c24090210d0615ee2f71f16aa</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-17 01:13:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>bc46c36cde09021048a578c2459ee38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="IT Credentials" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Credentials">2cf63aa897c50210371871571153af9b</sys_scope>
+        <sys_update_name>sys_ux_page_property_bc46c36cde09021048a578c2459ee38a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-17 01:13:44</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1066731_it_cre_0.7046c36c97090210371871571153af66.route.chrome_header.8546c36c24090210d0615ee2f71f16aa</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</application>
+        <file_path/>
+        <instance_id>706e1e0ddbf248109df22f17d4961993</instance_id>
+        <instance_name>dev99320</instance_name>
+        <name>sys_ux_page_property_bc46c36cde09021048a578c2459ee38a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">7046c36c97090210371871571153af66</page><required_translations>[]</required_translations><route display_value="Search Page">8546c36c24090210d0615ee2f71f16aa</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-17 01:13:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>bc46c36cde09021048a578c2459ee38a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="IT Credentials" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package><sys_policy/><sys_scope display_value="IT Credentials">2cf63aa897c50210371871571153af9b</sys_scope><sys_update_name>sys_ux_page_property_bc46c36cde09021048a578c2459ee38a</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-17 01:13:44</sys_updated_on><type>json</type><unique_name>x_1066731_it_cre_0.7046c36c97090210371871571153af66.route.chrome_header.8546c36c24090210d0615ee2f71f16aa</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>915070564</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-17 14:25:43</sys_created_on>
+        <sys_id>938bb57497854210371871571153af78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e4ccdddde0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-17 14:25:43</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>538bb57447854210957ae954ecbfb778</update_guid>
+        <update_guid_history>538bb57447854210957ae954ecbfb778:915070564</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-17 14:25:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>c9bc71d68cac42ecb232649666af7c90</sys_id>
+        <sys_metadata>bc46c36cde09021048a578c2459ee38a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="DoD-8140 Cyberspace Training Repository" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</sys_scope>
+        <sys_scope_delete display_value="">085cb00d84ac44df85ed391c20425a59</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_bc46c36cde09021048a578c2459ee38a</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_bc46c36cde09021048a578c2459ee38a">938bb57497854210371871571153af78</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-17 14:25:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

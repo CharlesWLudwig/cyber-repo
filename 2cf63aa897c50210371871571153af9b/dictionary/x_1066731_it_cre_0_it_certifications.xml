@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a655cbe897090210371871571153af41" label="IT Certifications" max_length="40" name="x_1066731_it_cre_0_it_certifications" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="b" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Work Role" max_length="66" name="c" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Course Name" max_length="76" name="d" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Component" max_length="1345" name="dod_8140_cyberspace_training_repository" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Course Number" max_length="86" name="e" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1824" name="f" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Course Length" max_length="103" name="g" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Proficiency Level" max_length="40" name="h" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

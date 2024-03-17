@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1ccd393897854210371871571153afed" sys_domain="global" table="sys_user" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20cd393897854210371871571153aff1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_user" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">1ccd393897854210371871571153afed</sys_ui_form>
+            <sys_ui_section caption="User ID" display_value="User ID" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">5ccd393897854210371871571153af77</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e8cd393897854210371871571153aff1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_user" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">1ccd393897854210371871571153afed</sys_ui_form>
+            <sys_ui_section caption="User Profile" display_value="User Profile" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">9ccd393897854210371871571153af78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64cd393897854210371871571153aff5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_user" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">1ccd393897854210371871571153afed</sys_ui_form>
+            <sys_ui_section caption="User Metadata" display_value="User Metadata" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">68eb7d74ec8542101912c8dd222fefec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eccd793897854210371871571153af4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_user" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">1ccd393897854210371871571153afed</sys_ui_form>
+            <sys_ui_section caption="User Accommodations" display_value="User Accommodations" name="sys_user" sys_domain="global" view="2ceb7d741085421041e040588211bcec">90cd393897854210371871571153afed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 14:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ccd393897854210371871571153afed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DoD-8140 Cyberspace Training Repository" source="x_1066731_it_cre_0">2cf63aa897c50210371871571153af9b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DoD-8140 Cyberspace Training Repository">2cf63aa897c50210371871571153af9b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1ccd393897854210371871571153afed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 14:35:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="2_custom_portal_settings_x_1066731_it_cre_0" name="2_custom_portal_settings_x_1066731_it_cre_0">2ceb7d741085421041e040588211bcec</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
